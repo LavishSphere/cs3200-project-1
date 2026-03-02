@@ -13,7 +13,7 @@ Tasks
 
 - [#4](./relational-schema.pdf) From the logical model, define a relational schema in at least BCNF.
 
-- [#5](./definition-statements.sql) Create a set of SQL data definition statements for the above model. (Screenshots of proof are also available in the models document)
+- [#5](./definition-statements.sql) Create a set of SQL data definition statements for the above model. (Screenshot of proof is also available [here](./definition-statements.png))
 
 - [#6](./test-data.sql) Populate the tables with test data.
 
