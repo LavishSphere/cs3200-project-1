@@ -1,4 +1,4 @@
-# cs3200-assignment-4
+# cs3200-project-1
 ## Design & Implement a Relational Database
 
 ### By: Ashsmith Khayrul & Tuna Baris Ercan
